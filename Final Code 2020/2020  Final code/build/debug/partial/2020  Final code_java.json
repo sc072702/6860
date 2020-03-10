@@ -1,0 +1,11 @@
+[
+  {
+    "name": "2020  Final code (in project 2020  Final code)",
+    "file": "C:\\Users\\equit\\Desktop\\Final Code 2020\\2020  Final code\\build\\libs\\2020  Final code.jar",
+    "extensions": [
+      "C:\\Users\\equit\\Desktop\\Final Code 2020\\2020  Final code\\build\\tmp\\expandedArchives\\halsim_gui-2020.2.2-windowsx86-64debug.zip_866da70ef696d17af1a59e0d15b6d6e4\\windows\\x86-64\\shared\\halsim_guid.dll"
+    ],
+    "librarydir": "C:\\Users\\equit\\Desktop\\Final Code 2020\\2020  Final code\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]
